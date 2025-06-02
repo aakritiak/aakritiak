@@ -1,6 +1,6 @@
 
 
-# Hi there, this is Aakriti! 👋
+# Hi , this is Aakriti! 👋
 
 
 ---
