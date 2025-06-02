@@ -3,8 +3,6 @@
 # Hi, this is Aakriti! 👋
 
 
----
-
 ### Here are some of the tools, frameworks, and languages I've worked with 💻
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
