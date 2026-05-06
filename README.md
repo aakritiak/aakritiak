@@ -84,8 +84,8 @@ I'm a **Software Engineer** who loves building things and solving problems. Welc
  
 ## 🌐 Connect with Me
  
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) **[X](https://x.com/aakritiak_)** 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) **[Linkedin](https://www.linkedin.com/in/aakritiak/)** 
+**[X](https://x.com/aakritiak_)** 
+**[Linkedin](https://www.linkedin.com/in/aakritiak/)** 
 
  
 ---
