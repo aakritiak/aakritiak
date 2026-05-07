@@ -7,9 +7,9 @@ I'm a **Software Engineer** who loves building things and solving problems. Welc
  
 ## 🙋‍♀️ About Me
  
-- 🚀 Building **[Lumafly](https://www.lumafly.app/)** — Launch ready AI ads in minutes. Check it out!
-- 👩🏻‍💻 CS major
-- 💻 Passionate about software development and engineering
+- 🚀 Building **[Lumafly](https://www.lumafly.app/)** — Launch ready AI video ads in minutes. Check it out!
+- 👩🏻‍💻 CS grad, now a founder.
+- 💻 Passionate about software development and engineering.
 - 🌱 Always learning and exploring new technologies.
 - 📫 Feel free to reach out!
 ---
@@ -75,7 +75,7 @@ I'm a **Software Engineer** who loves building things and solving problems. Welc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 ---
-### Other tools I have worked with
+### 🔭 Other tools I have worked with
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
